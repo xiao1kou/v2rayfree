@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-14 02:00:43  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-14 04:27:48  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -177,10 +177,10 @@ trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&typ
 trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramShadowProxy66#US_speednode_0087
 trojan://slch2024@204.93.210.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#US_speednode_0088
 vless://e4412006-94f2-4f3c-b568-22a3e31dc264@172.233.153.209:10001?allowInsecure=0&sni=yahoo.com&fp=firefox&security=tls#US_speednode_0089
-ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/aqwshiog;host=hk6v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local;obfs=http;obfs-host=202509121565513-LUEpIR0Pwo.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local;obfs=http;obfs-host=202509121565513-LUEpIR0Pwo.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206OGE2Y2ExNGMwOTM2@137.220.142.150:443?plugin=v2ray-plugin;mode=websocket;path=/wrdfiatyd;host=jpxw9v1.dashengjs.net;tls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/aqwshiog;host=hk6v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local;obfs=http;obfs-host=202509121565513-LUEpIR0Pwo.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 
 
 ```
