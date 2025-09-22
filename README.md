@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-22 04:29:35  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-09-22 08:34:24  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -120,10 +120,10 @@ vless://68c646a9-cf84-4391-97b3-fec96db7c82a@160.25.74.112:10109?allowInsecure=0
 vless://38f35728-42ff-45ae-b1ff-bd2292061990@160.25.74.112:10109?allowInsecure=0&sni=content.cdp.bethesda.net&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#VN_speednode_0037
 vless://1d50df52-368d-4d14-8bf7-9b89e82985e2@103.15.91.104:10102?allowInsecure=0&sni=www.douyin.com&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#VN_speednode_0038
 vless://315f5e68-395c-491e-bdaa-323f546723fb@160.25.74.112:10109?allowInsecure=0&sni=content.cdp.bethesda.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#VN_speednode_0039
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local;obfs=http;obfs-host=202509121565513-Aja8hFXVWh.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206ODgwOGU5ZjExNDU0@137.220.142.139:443?plugin=v2ray-plugin;mode=websocket;path=/nvcnjrmkggoy;host=jp5v1.lingjfjkm002.com;tls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/aqwshiog;host=hk6v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local;obfs=http;obfs-host=202509121565513-Aja8hFXVWh.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206ODgwOGU5ZjExNDU0@137.220.142.139:443?plugin=v2ray-plugin;mode=websocket;path=/nvcnjrmkggoy;host=jp5v1.lingjfjkm002.com;tls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local;obfs=http;obfs-host=202509121565513-Aja8hFXVWh.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 
 
 ```
