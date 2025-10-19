@@ -1,4 +1,4 @@
-# v2ray公益免费节点订阅  每日更新  更新时间 2025-10-19 04:29:50  
+# v2ray公益免费节点订阅  每日更新  更新时间 2025-10-19 08:29:01  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -151,9 +151,9 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?allowInsecure=0&s
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.19.50.238:2096?allowInsecure=1&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/telegram🇨🇳@wangcai2/?ed=2560security=tls#US_speednode_0036
 vless://6c7a6a6a-6a6a-4000-8000-000000000002@104.20.2.221:8443?allowInsecure=1&sni=bycf.lzjnb.shop&type=ws&host=bycf.lzjnb.shop&path=/?ed=2560fp=chrome&security=tls#US_speednode_0037
 vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443?allowInsecure=0&sni=dash.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0038
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=874b20d:48331#%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=4a81070:6193#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=d4cbbb2:42774#%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
 
 
