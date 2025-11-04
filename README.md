@@ -1,4 +1,4 @@
-# v2ray公益免费节点订阅  每日更新  更新时间 2025-11-04 16:32:59  
+# v2ray公益免费节点订阅  每日更新  更新时间 2025-11-04 20:30:02  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 | 客户端 | Android | Windows | iOS      |
@@ -144,7 +144,7 @@ hysteria2://e2QEtNgU9v@5.133.102.59:41250?insecure=1&obfs=salamander&obfs-passwo
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?insecure=0#telegram-%40ISVvpn%20%232
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%2318
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2rayAlpha--2
-hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?insecure=1&sni=bing.com#%40Daily_Configs%20%232
+hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?insecure=1&sni=bing.com#%40sunflowerplato%F0%9F%8C%BB%20%234
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@nl1.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2rayAlpha--3
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@us1.oomz.ru:30000?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%232
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@us2.oomz.ru:30000?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%233
